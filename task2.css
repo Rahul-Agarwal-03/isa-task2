@@ -1,0 +1,137 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #e0e0e0;
+
+}
+
+.row1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 0.6%;
+    margin-top: 0.3%;
+
+    
+}
+.row1>div{
+    margin: 0.2%; 
+}
+.box1_1{
+    width: 42%;
+    background-color: white;
+  
+    
+}
+.box1_2{
+    width: 21%;
+    background-color: #ffb266;
+}
+.box1_3{
+width: 35%;
+background-color: #ff6666;
+
+}
+
+.row2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 0.6%;
+    height: 25vh;
+}
+.row2>div{
+    margin: 0.2%; 
+}
+.box2_1{
+    width: 35%;
+    background-color: #66b2ff;
+}
+.box2_2{
+    width: 28%;
+    background-color: #b266ff;
+}
+.box2_3{
+    width: 35%;
+    background-color: white;
+}
+
+.row3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 0.6%;
+    height: 40vh;
+}
+.row3>div{
+    margin: 0.2%; 
+    
+}
+.box3_1{
+    width: 33%;
+    background-color: white;
+}
+.box3_2{
+    width: 33%;
+    background-color: white;
+}
+.box3_3{
+    width: 32%;
+    background-color: #99ffcc;
+}
+.text_1{
+    padding-left: 32%;
+    padding-top: 5%;
+    font-size: 125%;
+}
+.text{
+    padding-left: 5%;
+    padding-top: 5%;
+    font-size: 110%;
+    color: white;
+}
+.text2{
+    padding-left: 70%;
+    padding-top: 30%;
+    font-size: 425%;
+    color: white; 
+}
+.text_3{
+    padding-left: 32%;
+    padding-right: 8%;
+    padding-top: 30%;
+    font-size: 125%;
+    color: white;
+    text-align: right;
+}
+.bold_text{
+    padding-left: 10%;
+    padding-top: 5%;
+    font-size: 110%;
+}
+.white_text{
+    padding-left: 10%;
+    padding-top: 5%;
+    color: white;
+    font-size: 110%;
+}
+.text1a{
+    padding-left: 35%;
+    padding-top: 3%;
+    font-size: 110%;
+}
+.text2a{
+    padding-left: 32%;
+    padding-top: 10%;
+    font-size: 120%;
+}
+.text3a{
+    padding-left: 32%;
+    padding-top: 10%;
+    font-size: 120%;
+}
+.text_4{
+    padding: 10%;
+    font-size: 140%;
+}
+
